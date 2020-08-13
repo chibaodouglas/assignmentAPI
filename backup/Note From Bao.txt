@@ -1,0 +1,12 @@
+1) I added 1 line in .css file to make the modal display none by default
+
+
+   .modal-container {
+    display: none;
+
+
+2) Please refer (side-by-side screen) to the modalTest.html for the loop part  as i refer to the static info "card" in that html to build the string 
+
+* the loop starts from 
+
+$.each(users.results, function(i,user){ 
